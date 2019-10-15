@@ -1,6 +1,6 @@
-# router2
+# VueJS
 
-> Dilshani Dias
+> Vue Template beginner with firebase
 
 ## Build Setup
 
